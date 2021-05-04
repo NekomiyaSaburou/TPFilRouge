@@ -1,0 +1,23 @@
+body {
+  margin: 15px;
+}
+
+span {
+  font-style: italic;
+}
+
+#idk {
+  font-size: 20px;
+}
+
+#random:hover {
+  font-family: fantasy;
+}
+
+.green {
+  color: green
+}
+
+.red {
+  color: red
+}
